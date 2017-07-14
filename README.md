@@ -7,9 +7,6 @@ being able to submit a pull request, please follow [this YouTube
 link](https://www.youtube.com/watch?v=2g9lsbJBPEs). The [GitHub help
 pages](https://help.github.com/) are also very good.
 
-THIS RIGHT HERE IS A TEST EDIT! =D
-
-
 ## FAQ
 
 * [What is Git? And GitHub?](#whatisgit)
